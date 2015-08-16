@@ -1,0 +1,12 @@
+c:\Tests\TestProject1\TestProject1\bin\Debug\chromedriver.exe
+c:\Tests\TestProject1\TestProject1\bin\Debug\TestProject1.dll
+c:\Tests\TestProject1\TestProject1\bin\Debug\TestProject1.pdb
+c:\Tests\TestProject1\TestProject1\obj\Debug\TestProject1.dll
+c:\Tests\TestProject1\TestProject1\obj\Debug\TestProject1.pdb
+C:\Tests\TestProject1\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\GIT\TestProject1\TestProject1\bin\Debug\chromedriver.exe
+C:\GIT\TestProject1\TestProject1\bin\Debug\TestProject1.dll
+C:\GIT\TestProject1\TestProject1\bin\Debug\TestProject1.pdb
+C:\GIT\TestProject1\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\GIT\TestProject1\TestProject1\obj\Debug\TestProject1.dll
+C:\GIT\TestProject1\TestProject1\obj\Debug\TestProject1.pdb
